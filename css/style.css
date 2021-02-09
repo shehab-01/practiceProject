@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,300;1,800&display=swap');
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 100;
+}
+.my-nav{
+	background-color: #2C3E50;
+	font-size: 20px;
+}
+.my-nav .navbar-brand{
+	color: white;
+	font-size: 30px;
+	font-weight: 600;
+}
+
+.my-nav .nav-link{
+	color: white;
+	font-weight: 600;
+}
+.bgcolor{
+	background-color: #1ABC9C;
+}
+
+.start{
+	color: white;
+	font-size: 65px;
+	font-weight: 900;
+	text-align: center;
+	margin: 30px
+}
+.grapic{
+	color: white;
+	font-size: 20px;
+	font-weight: 600;
+	text-align: center;
+}
+.port{font-size: 55px;color: #2c3e50;font-weight: 600;
+
+}
+
+.pad{
+	padding: 10px
+}
+
+
+.about{
+	color: white;
+	font-size: 55px;
+	font-weight: 600;
+	text-align: center;
+}
+.about-color{
+	background-color: #1ABC9C;
+}.colcol{
+	color: white;
+	font-size: 18px
+}
